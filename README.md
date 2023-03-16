@@ -1,1 +1,1 @@
-# FID_and_dephasing
+# A simple simulation of FID and dephasing with Julia codes
